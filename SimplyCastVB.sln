@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SimplyCastVB", "SimplyCastVB\SimplyCastVB.vbproj", "{251BF4DC-7143-48FE-B999-B40248A51890}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71F25BDE-DED2-4FE2-B682-5EA025194CAE}"
+	ProjectSection(SolutionItems) = preProject
+		SimplyCastVB\APIException.vb = SimplyCastVB\APIException.vb
+		SimplyCastVB\Column.vb = SimplyCastVB\Column.vb
+		SimplyCastVB\Contact.vb = SimplyCastVB\Contact.vb
+		SimplyCastVB\ContactList.vb = SimplyCastVB\ContactList.vb
+		SimplyCastVB\EmailCampaign.vb = SimplyCastVB\EmailCampaign.vb
+		SimplyCastVB\EmailCampaignInteraction.vb = SimplyCastVB\EmailCampaignInteraction.vb
+		SimplyCastVB\EmailCampaignSend.vb = SimplyCastVB\EmailCampaignSend.vb
+		SimplyCastVB\EmailCampaignTrackingLink.vb = SimplyCastVB\EmailCampaignTrackingLink.vb
+		SimplyCastVB\Error_Message.vb = SimplyCastVB\Error_Message.vb
+		SimplyCastVB\Examples.vb = SimplyCastVB\Examples.vb
+		SimplyCastVB\Field.vb = SimplyCastVB\Field.vb
+		SimplyCastVB\FormCampaign.vb = SimplyCastVB\FormCampaign.vb
+		SimplyCastVB\FormCampaignSchema.vb = SimplyCastVB\FormCampaignSchema.vb
+		SimplyCastVB\FormCampaignSubmission.vb = SimplyCastVB\FormCampaignSubmission.vb
+		SimplyCastVB\Link.vb = SimplyCastVB\Link.vb
+		SimplyCastVB\Main.vb = SimplyCastVB\Main.vb
+		SimplyCastVB\Metadata.vb = SimplyCastVB\Metadata.vb
+		SimplyCastVB\ResourceAPI.vb = SimplyCastVB\ResourceAPI.vb
+		SimplyCastVB\SC360Campaign.vb = SimplyCastVB\SC360Campaign.vb
+		SimplyCastVB\SC360CampaignConnection.vb = SimplyCastVB\SC360CampaignConnection.vb
+		SimplyCastVB\SC360CampaignElement.vb = SimplyCastVB\SC360CampaignElement.vb
+		SimplyCastVB\SC360Connection.vb = SimplyCastVB\SC360Connection.vb
+		SimplyCastVB\SC360Contact.vb = SimplyCastVB\SC360Contact.vb
+		SimplyCastVB\SC360Project.vb = SimplyCastVB\SC360Project.vb
+		SimplyCastVB\SimplyCastAPI.vb = SimplyCastVB\SimplyCastAPI.vb
+		SimplyCastVB\SimplyCastAPIConnector.vb = SimplyCastVB\SimplyCastAPIConnector.vb
+		SimplyCastVB\SMSCampaign.vb = SimplyCastVB\SMSCampaign.vb
+		SimplyCastVB\SMSCampaignResponse.vb = SimplyCastVB\SMSCampaignResponse.vb
+		SimplyCastVB\SMSCampaignSend.vb = SimplyCastVB\SMSCampaignSend.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251BF4DC-7143-48FE-B999-B40248A51890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251BF4DC-7143-48FE-B999-B40248A51890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251BF4DC-7143-48FE-B999-B40248A51890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251BF4DC-7143-48FE-B999-B40248A51890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
