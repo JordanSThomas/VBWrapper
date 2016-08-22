@@ -1,0 +1,9 @@
+F:\SimplyCastVB\SimplyCastVB\bin\Debug\ClassLibrary3.dll
+F:\SimplyCastVB\SimplyCastVB\bin\Debug\ClassLibrary3.pdb
+F:\SimplyCastVB\SimplyCastVB\bin\Debug\ClassLibrary3.xml
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\SimplyCastVB.vbprojResolveAssemblyReference.cache
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\ClassLibrary3.Resources.resources
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\SimplyCastVB.vbproj.GenerateResource.Cache
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\ClassLibrary3.dll
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\ClassLibrary3.xml
+F:\SimplyCastVB\SimplyCastVB\obj\Debug\ClassLibrary3.pdb

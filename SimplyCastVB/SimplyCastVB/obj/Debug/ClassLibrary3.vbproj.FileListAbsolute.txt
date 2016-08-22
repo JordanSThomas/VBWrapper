@@ -1,0 +1,18 @@
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.xml
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.vbprojResolveAssemblyReference.cache
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.Resources.resources
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.vbproj.GenerateResource.Cache
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.xml
+c:\users\deepshock\documents\visual studio 2015\Projects\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
+F:\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+F:\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+F:\ClassLibrary3\ClassLibrary3\bin\Debug\ClassLibrary3.xml
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.vbprojResolveAssemblyReference.cache
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.Resources.resources
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.vbproj.GenerateResource.Cache
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.xml
+F:\ClassLibrary3\ClassLibrary3\obj\Debug\ClassLibrary3.pdb

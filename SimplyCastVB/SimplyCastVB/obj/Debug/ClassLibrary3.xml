@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ClassLibrary3
+</name>
+</assembly>
+<members>
+<member name="T:ClassLibrary3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ClassLibrary3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ClassLibrary3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ClassLibrary3.SimplyCastWrapper.Examples.MetadataColumnManagementExample">
+ <summary>
+ Metadata column management examples.
+ </summary>
+</member>
+<member name="M:ClassLibrary3.SimplyCastWrapper.Examples.SimplyCast360Example(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ 360 Examples. This example requires you to create a test 360 
+ project that contains an inbound And outbound 360 API connection
+ node, And the ID of a contact to test with.
+ 
+ NOTE that this will remove things from outbound nodes. Make sure
+ your project you test with Is indeed a testing project.
+ </summary>
+</member>
+</members>
+</doc>
